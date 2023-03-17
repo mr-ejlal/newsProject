@@ -7,7 +7,6 @@ import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_state_manager/src/rx_flutter/rx_getx_widget.dart';
 import 'package:newsproject/api_service/api_url.dart';
 import 'package:newsproject/routes/routes.dart';
-import 'package:newsproject/view/news_screen.dart';
 
 import '../controller/home_screen.dart';
 
